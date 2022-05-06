@@ -1,0 +1,72 @@
+.tarjeta
+{width: 10cm;
+height: 6cm;
+background-color: grey;
+border-radius: 15px;
+margin:auto;
+margin-top: 0px;
+margin-bottom: 50px;
+text-align: right;
+border-right: 3%;
+}
+
+img { border-radius: 15px;}
+
+.formulario
+{width: 500px;
+    height: 650px;
+    background-color: rgb(203, 199, 199);
+    margin:auto;
+    margin-top: 20px;
+    position: relative;
+    padding: 160px 45px 30px;
+    border-radius: 15px;
+   text-align:center;
+  border:20px;
+}
+ 
+input
+{   margin: 0px;
+    margin-right: 50px;
+    margin-top: 25px;
+    font-size: medium;
+    font: 25px;
+    padding:10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 100%;
+    border: 1px;
+    border-radius: 15px;
+    padding: 12px;
+    margin: 10px;
+    box-sizing: border-box;
+    
+}
+
+
+.datos { text-align: center;
+          width: 5cm;
+          display: inline-block;
+        }
+.vto {width: 5cm;
+text-align: center;
+display: inline-block;}
+
+.ccv {width: 3cm;
+text-align: center;
+display: inline-block;}
+
+
+button
+  { padding: 8px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    background-color:whitesmoke;
+     border: none; 
+     width: 100px; 
+     height: 50px;
+      color: rgb(138, 128, 128);
+     margin-top: 15px;
+     border-radius: 15px;
+ }
